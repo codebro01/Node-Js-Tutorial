@@ -22,7 +22,7 @@ writeFile("./text files/myNewFile.txt", "This is the new text file made using wr
                 return;
             }
             console.log(result)
-            const data = result;
+            const data = result;;
         })
     })
 
